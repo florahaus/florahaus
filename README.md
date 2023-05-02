@@ -1,6 +1,6 @@
 # Oii, me chamo Flora! 🌸
 
-##Tenho 21 anos e sou aluna de Desenvolvimento Web Jr - Front End na Laboratoria Brasil
+## Tenho 21 anos e sou aluna de Desenvolvimento Web Jr - Front End na Laboratoria Brasil
 
 
 ### Leitora nas horas vagas 📖
